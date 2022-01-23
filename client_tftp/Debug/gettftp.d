@@ -1,0 +1,1 @@
+gettftp.o: ../gettftp.c
